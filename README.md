@@ -1,3 +1,5 @@
+**Live demo:** [doc-intel-agent.vercel.app](https://doc-intel-agent.vercel.app)
+
 # Document Intelligence Agent
 
 Agentic document pipeline: **plan → OCR normalize → extract fields → validate → persist**.
